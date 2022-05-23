@@ -8,13 +8,13 @@ NazmulHasan7/NazmulHasan7 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  Overall github stats<br>
+  Overall github stats<br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=NazmulHasan7&count_private=true&show_icons=true&theme=codeSTACKr">
 </p>
 
 <br>   
 <div align="center">
-  Development Tools<br>
+  Development Tools<br><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
@@ -31,10 +31,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div> 
-  
+
+<br>  
 <p align="center">
-  Most frequently used languages<br>
+  Most frequently used languages<br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasan7&layout=compact&theme=codeSTACKr">
 </p>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NazmulHasan7&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
