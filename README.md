@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=NazmulHasan7&color=green)
 - 👋 Hi, I’m Nazmul Hasan
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Deep Learning Techniques (Object Detecion)
