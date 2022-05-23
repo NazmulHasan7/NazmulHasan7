@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
   Overall github stats<br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=NazmulHasan7&count_private=true&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=NazmulHasan7&count_private=true&show_icons=true&theme=codeSTACKr ">
 </p>
 
 <br>   
@@ -35,5 +35,5 @@ You can click the Preview link to take a look at your changes.
 <br>  
 <p align="center">
   Most frequently used languages<br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasan7&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasan7&layout=compact&theme=codeSTACKr ">
 </p>
