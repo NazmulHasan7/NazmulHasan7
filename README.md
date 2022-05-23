@@ -7,11 +7,14 @@
 NazmulHasan7/NazmulHasan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Overall github stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazmulHasan7&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  Overall github stats  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazmulHasan7&count_private=true&show_icons=true&theme=radical)]  (https://github.com/anuraghazra/github-readme-stats)
+</p>
 
-<br>Development Tools   
-<div>
+<br>   
+<div align="center">
+  Development Tools<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
@@ -29,7 +32,7 @@ Overall github stats
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div></i>  
   
-<br>Most frequently used languages
+Most frequently used languages<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasan7&layout=compact&theme=radical&height=200)](https://github.com/anuraghazra/github-readme-stats)
 
 
