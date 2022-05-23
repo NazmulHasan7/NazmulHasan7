@@ -1,4 +1,4 @@
-<i>- 👋 Hi, I’m Nazmul Hasan
+- <i>👋 Hi, I’m Nazmul Hasan
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Deep Learning Techniques (Object Detecion)
 - 📫 Reach me ... nazmul.hasan7@northsouth.edu
@@ -30,9 +30,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div></i>  
+</div> 
   
 Most frequently used languages<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasan7&layout=compact&theme=radical&height=200)](https://github.com/anuraghazra/github-readme-stats)
-
-
+</i> 
