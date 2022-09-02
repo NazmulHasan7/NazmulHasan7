@@ -46,5 +46,9 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   Most frequently used languages<br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasan7&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="nazmulhasan7">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulhasan7&layout=compact&theme=codeSTACKr" alt="nazmulhasan7" /></p>
+  
 </p>
+![](https://github-readme-stats.vercel.app/api?username=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NazmulHasan7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
