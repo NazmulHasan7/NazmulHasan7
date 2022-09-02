@@ -14,13 +14,13 @@
 NazmulHasan7/NazmulHasan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  ## <i>Overall Github Stats 📊 </i>
+  <h2 align="center"> <i>Overall Github Stats 📊</i></h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="500" height="200"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="500" height="200"><br/>
 </p>
 
-<br><i> ## Development Tools 💻</i>
+<h2 align="center"> <i>Development Tools 💻</i></h2>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
@@ -42,19 +42,8 @@ You can click the Preview link to take a look at your changes.
    </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp;
 </div> 
 
-<br>  
+  <h2 align="center"> <i>Most frequently used languages</i></h2>
 <p align="center">
-  ### Most frequently used languages<br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="nazmulhasan7">
 </p>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=NazmulHasan7&icon=0&color=0)](https://visitcount.itsvg.in)
 
