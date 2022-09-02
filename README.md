@@ -15,14 +15,14 @@ NazmulHasan7/NazmulHasan7 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  Overall Github Stats 📊<br><br>
+  ### Overall Github Stats 📊<br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="500" height="200"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="500" height="200"><br/>
 </p>
 
 <br>   
 <div align="center">
-  Development Tools 💻<br><br>
+  ### Development Tools 💻<br><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>  
 <p align="center">
-  Most frequently used languages<br><br>
+  ### Most frequently used languages<br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="nazmulhasan7">
   
 </p>
