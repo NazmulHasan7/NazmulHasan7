@@ -1,9 +1,9 @@
 <h1 align="center"> <i>Hi 👋, I'm Nazmul Hasan </i></h1>
 <h3 align="center"> <i>👀 I’m interested in Web Development and Machine Learning </i></h3>
-- <i>🌱 I’m currently learning **Deep Learning & Quantum Computing**
-- 🔭 I’m currently working on [NSUER'S DIARY](http://nsuersdiary.epizy.com/
-- 📫 Reach me ... nazmul.hasan7@northsouth.edu
-- 📄 Know about my experiences [https://nazmulhasan7.github.io/Portfolio/](https://nazmulhasan7.github.io/Portfolio/)
+- <i>🌱 I’m currently learning **Deep Learning & Quantum Computing** <br>
+- 🔭 I’m currently working on [NSUER'S DIARY](http://nsuersdiary.epizy.com/ <br>
+- 📫 Reach me ... nazmul.hasan7@northsouth.edu <br>
+- 📄 Know about my experiences [https://nazmulhasan7.github.io/Portfolio/](https://nazmulhasan7.github.io/Portfolio/) <br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
