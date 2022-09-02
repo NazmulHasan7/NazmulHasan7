@@ -5,10 +5,9 @@
 - 📫 Reach me ... nazmul.hasan7@northsouth.edu <br>
 - 📄 Know about my experiences [https://nazmulhasan7.github.io/Portfolio/](https://nazmulhasan7.github.io/Portfolio/) <br>
 
-<p align="left"> Connect with me:
-<a href="https://twitter.com/nazmulhasan__7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazmulhasan__7" height="30" width="40" /></a>
-<a href="https://kaggle.com/nazmulhasan742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nazmulhasan742" height="30" width="40" /></a>
-<a href="https://fb.com/nazmulhasannh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmulhasannh007" height="30" width="40" /></a>
+<p align="left">- Connect with me:
+<a href="https://twitter.com/nazmulhasan__7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazmulhasan__7" height="20" width="30" /></a>
+<a href="https://fb.com/nazmulhasannh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmulhasannh007" height="20" width="30" /></a>
 </p>
 
 <!---
@@ -46,5 +45,6 @@ You can click the Preview link to take a look at your changes.
 <br>  
 <p align="center">
   Most frequently used languages<br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasan7&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="nazmulhasan7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmulhasan7&show_icons=true&locale=en&layout=compact" alt="nazmulhasan7" />
 </p>
