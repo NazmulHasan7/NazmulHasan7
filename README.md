@@ -1,12 +1,11 @@
-<h1 align="center"> <i>Hi 👋, I'm Nazmul Hasan </i></h1>
-<h3 align="center"> <i>👀 I’m interested in Web Development and Machine Learning </i></h3>
+<h2 align="center"> <i>Hi 👋, I'm Nazmul Hasan </i></h2>
+<h4 align="center"> <i>👀 I’m interested in Web Development and Machine Learning </i></h4>
 - <i>🌱 I’m currently learning **Deep Learning & Quantum Computing** <br>
 - 🔭 I’m currently working on [NSUER'S DIARY](http://nsuersdiary.epizy.com/ <br>
 - 📫 Reach me ... nazmul.hasan7@northsouth.edu <br>
 - 📄 Know about my experiences [https://nazmulhasan7.github.io/Portfolio/](https://nazmulhasan7.github.io/Portfolio/) <br>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="left"> Connect with me:
 <a href="https://twitter.com/nazmulhasan__7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazmulhasan__7" height="30" width="40" /></a>
 <a href="https://kaggle.com/nazmulhasan742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nazmulhasan742" height="30" width="40" /></a>
 <a href="https://fb.com/nazmulhasannh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmulhasannh007" height="30" width="40" /></a>
@@ -39,10 +38,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+   </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </div> 
 
 <br>  
 <p align="center">
   Most frequently used languages<br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasan7&layout=compact&theme=codeSTACKr ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmulhasan7&show_icons=true&locale=en&layout=compact" alt="nazmulhasan7" />
 </p>
