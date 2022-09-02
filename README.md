@@ -15,13 +15,14 @@ NazmulHasan7/NazmulHasan7 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  Overall github stats<br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmulhasan7&count_private=true&show_icons=true&theme=codeSTACKr" width="500" height="200">
+  Overall Github Stats 📊<br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="500" height="200"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="500" height="200"><br/>
 </p>
 
 <br>   
 <div align="center">
-  Development Tools<br><br>
+  Development Tools 💻<br><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
@@ -45,10 +46,19 @@ You can click the Preview link to take a look at your changes.
 <br>  
 <p align="center">
   Most frequently used languages<br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasan7&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="nazmulhasan7">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="nazmulhasan7">
   
 </p>
-![](https://github-readme-stats.vercel.app/api?username=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NazmulHasan7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NazmulHasan7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=NazmulHasan7&icon=0&color=0)](https://visitcount.itsvg.in)
 
