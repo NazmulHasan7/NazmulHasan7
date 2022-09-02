@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   Most frequently used languages<br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasan7&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="nazmulhasan7" 
-       width="500" height="200">
+       width="600" height="200">
 </p>
