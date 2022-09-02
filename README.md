@@ -1,8 +1,16 @@
-- <i>👋 Hi, I’m Nazmul Hasan
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Deep Learning Techniques (Object Detecion)
+<h1 align="center"> <i>Hi 👋, I'm Nazmul Hasan </i></h1>
+<h3 align="center"> <i>👀 I’m interested in Web Development and Machine Learning </i></h3>
+- <i>🌱 I’m currently learning **Deep Learning & Quantum Computing**
+- 🔭 I’m currently working on [NSUER'S DIARY](http://nsuersdiary.epizy.com/
 - 📫 Reach me ... nazmul.hasan7@northsouth.edu
-- Portfolio - https://nazmulhasan7.github.io/Portfolio/
+- 📄 Know about my experiences [https://nazmulhasan7.github.io/Portfolio/](https://nazmulhasan7.github.io/Portfolio/)
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/nazmulhasan__7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazmulhasan__7" height="30" width="40" /></a>
+<a href="https://kaggle.com/nazmulhasan742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nazmulhasan742" height="30" width="40" /></a>
+<a href="https://fb.com/nazmulhasannh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmulhasannh007" height="30" width="40" /></a>
+</p>
 
 <!---
 NazmulHasan7/NazmulHasan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
