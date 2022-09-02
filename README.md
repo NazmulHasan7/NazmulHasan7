@@ -16,8 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
   Overall github stats<br><br>
-  username=nazmulhasan7&show_icons=true&locale=en&layout=compact
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmulhasan7&count_private=true&show_icons=true&theme=codeSTACKr">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmulhasan7&count_private=true&show_icons=true&theme=codeSTACKr" width="500" height="200">
 </p>
 
 <br>   
@@ -37,14 +36,15 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-   </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>&nbsp;
+   </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp;
 </div> 
 
 <br>  
 <p align="center">
   Most frequently used languages<br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasan7&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="nazmulhasan7">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasan7&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="nazmulhasan7" 
+       width="500" height="200">
 </p>
