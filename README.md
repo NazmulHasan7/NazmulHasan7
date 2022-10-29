@@ -1,9 +1,9 @@
 <h2 align="center"> <i>Hi 👋, I'm Nazmul Hasan </i></h2>
 <h4 align="center"> <i>👀 I’m interested in Web Development and Machine Learning </i></h4>
 - <i>🌱 I’m currently learning **Deep Learning & Quantum Computing** <br>
-- 🔭 I’m currently working on [NSUER'S DIARY](http://nsuersdiary.epizy.com/ <br>
-- 📫 Reach me ... nazmul.hasan7@northsouth.edu <br>
-- 📄 Know about my experiences [https://nazmulhasan7.github.io/Portfolio/](https://nazmulhasan7.github.io/Portfolio/) <br>
+- 🔭 I’m currently working as a Teaching Assitant at North South University<br>
+- 📫 Reach me ... nazmul.hasan7@northsouth.edu or https://nazmulhasan7.epizy.com/ <br>
+- 📄 Personal Website - https://nazmulhasan7.epizy.com/ <br>
 
 <p align="left">- Connect with me:
 <a href="https://twitter.com/nazmulhasan__7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazmulhasan__7" height="20" width="30" /></a>
