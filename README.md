@@ -4,6 +4,7 @@
 - 🔭 I’m currently working as a Teaching Assitant at North South University<br>
 - 📫 Reach me ... nazmul.hasan7@northsouth.edu or https://nazmulhasan7.epizy.com/ <br>
 - 📄 Personal Website - https://nazmulhasan7.epizy.com/ <br>
+- LeetCode Profile - <a href="https://leetcode.com/u/nazmulhasan7/">Leetcode profile</a>
 
 <p align="left">- Connect with me:
 <a href="https://twitter.com/nazmulhasan__7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazmulhasan__7" height="20" width="30" /></a>
